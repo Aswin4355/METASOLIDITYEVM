@@ -1,4 +1,4 @@
-# MyToken Solidity Smart Contract
+# SMART CONTRACT FOR META CRYPTOCURRENCY
 
 **Table of Contents:**
 
